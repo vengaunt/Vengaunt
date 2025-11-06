@@ -2,7 +2,7 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHNyc3VsaGZmZ2xuZXd6bmJ6a2tzZ3MxZno3OXhkbDA4eWRjd3Y0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1pHO2MNOLzSX6/giphy.gif" width="480" alt="Fortuna Favors the Bold">
 </p>
 <h1 align="center">I'm Vengaunt.</h1>
-<h3 align="center">Unreal Engineer | Offshore Services</h3>
+<h3 align="center">Unreal Engineer | Offshore Software Services</h3>
 
 
 
@@ -10,7 +10,7 @@
 
 ### About Me
 
-- 🎮 Software Engineer with extensive experience of Unreal Engine game programming
+- 🎮 Software Engineer with a twist.
 - 💼 Conducted business may vary
 - 🛠️ There's a fine line between a software developer and a software **engineer**
 - 🧪 An IDE is like a laboratory. I experiment with the code to get the best for the mankind.

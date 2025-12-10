@@ -33,7 +33,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vengaunt&show_icons=true&theme=radical&hide_border=true" alt="Kenan's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vengaunt&show_icons=true&theme=radical&hide_border=true" alt="Vengaunt's GitHub stats" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vengaunt&theme=radical&hide_border=true" />
   <br>

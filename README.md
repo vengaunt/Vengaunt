@@ -2,7 +2,7 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHNyc3VsaGZmZ2xuZXd6bmJ6a2tzZ3MxZno3OXhkbDA4eWRjd3Y0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1pHO2MNOLzSX6/giphy.gif" width="480" alt="Fortuna Favors the Bold">
 </p>
 <h1 align="center">I'm Vengaunt.</h1>
-<h3 align="center">Software Engineer | Cybersecurity Services</h3>
+<h3 align="center">Software Engineer | Offensive Cybersecurity</h3>
 
 
 
